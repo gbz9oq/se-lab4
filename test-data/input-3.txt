@@ -1,0 +1,5 @@
+#Create ship with 4 torpedoes and fire all of them, to see if the ALl firing mode empties the torpedo bays
+GT4500,2,0,2,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,SINGLE #Should fail

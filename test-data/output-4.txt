@@ -1,0 +1,5 @@
+SUCCESS #Create ship with 2 toropedoes, the first bay has 1.0 failure rate
+FAIL #Didn't shoot from the first bay because it failed
+SUCCESS #Shoot from the second bay
+FAIL #Didn't fire from the first bay, because it still fails
+FAIL #Second bay is out of torpedoes
