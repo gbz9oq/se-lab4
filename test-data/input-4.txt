@@ -1,0 +1,6 @@
+#Create ship with max failure rate to test if the torpedo bays can fail
+GT4500,1,1.0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

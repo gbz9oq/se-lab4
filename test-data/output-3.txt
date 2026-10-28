@@ -1,0 +1,4 @@
+SUCCESS # Create ship with 20 torpedoes
+SUCCESS # Fire from both bays
+SUCCESS # Fire from both bays
+FAIL # No torpedoes left

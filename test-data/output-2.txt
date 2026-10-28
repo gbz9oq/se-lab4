@@ -1,0 +1,2 @@
+SUCCESS # Create ship with no torpedo
+FAIL # Cant fire, because no torpedo

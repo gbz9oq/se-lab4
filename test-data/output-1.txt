@@ -1,0 +1,3 @@
+SUCCESS # Create ship with 1 torpedo
+SUCCESS # Fire the torpedo
+FAIL # No torpedo left

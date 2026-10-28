@@ -1,0 +1,8 @@
+# Create ship with 1 torpedo to test if firing fails when out of torpedoes
+GT4500,1,0,0,0
+TORPEDO,SINGLE #Fires single torpedo
+TORPEDO,SINGLE #Should fail
+
+
+
+
